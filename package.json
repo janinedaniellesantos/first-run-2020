@@ -1,0 +1,22 @@
+{
+  "name": "first-run-2020",
+  "version": "1.0.0",
+  "description": "First repo run in Netcentric 2020",
+  "main": "app.js",
+  "scripts": {
+    "test": "git repository (https://flight-manual.atom.io/getting-started/sections/installing-atom/)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janinedaniellesantos/first-run-2020.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Janine Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janinedaniellesantos/first-run-2020/issues"
+  },
+  "homepage": "https://github.com/janinedaniellesantos/first-run-2020#readme"
+}
