@@ -2,9 +2,13 @@
   "name": "first-run-2020",
   "version": "1.0.0",
   "description": "First repo run in Netcentric 2020",
+  "engines": {
+          "node": "12.x"
+  }
   "main": "app.js",
   "scripts": {
-    "test": "git repository (https://flight-manual.atom.io/getting-started/sections/installing-atom/)"
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\ " && exit 1"
   },
   "repository": {
     "type": "git",
@@ -12,6 +16,7 @@
   },
   "keywords": [
     "node.js"
+    "heroku"
   ],
   "author": "Janine Santos",
   "license": "MIT",
